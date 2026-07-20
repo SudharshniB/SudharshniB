@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** with **4+ years of experience** building scalable backend systems, designing RESTful APIs, and optimizing application performance. I specialize in **Python**, **Java**, and cloud-native development, with a strong foundation in system design and microservices architecture.
+I'm a **Software Engineer** with **3 years of experience** building scalable backend systems, designing RESTful APIs, and optimizing application performance. I specialize in **Python**, **Java**, and cloud-native development, with a strong foundation in system design and microservices architecture.
 
 I'm passionate about writing clean, testable code and creating robust solutions that solve real-world problems. Currently pursuing my **M.S. in Business Analytics** at the University of Dayton, I bring a unique blend of engineering rigor and analytical thinking to every project.
 
